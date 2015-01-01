@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2010\Projects\OddsCalculator\OddsCalculator\bin\OddsCalculator.dll
+c:\users\david\documents\visual studio 2010\Projects\OddsCalculator\OddsCalculator\bin\OddsCalculator.pdb
+c:\users\david\documents\visual studio 2010\Projects\OddsCalculator\OddsCalculator\obj\Debug\OddsCalculator.dll
+c:\users\david\documents\visual studio 2010\Projects\OddsCalculator\OddsCalculator\obj\Debug\OddsCalculator.pdb
+C:\Users\David\documents\visual studio 2010\Projects\OddsCalculator\OddsCalculator\obj\Debug\OddsCalculator.csprojResolveAssemblyReference.cache
