@@ -3,3 +3,8 @@ c:\users\david\documents\visual studio 2010\Projects\OddsCalculator\OddsCalculat
 c:\users\david\documents\visual studio 2010\Projects\OddsCalculator\OddsCalculator\obj\Debug\OddsCalculator.dll
 c:\users\david\documents\visual studio 2010\Projects\OddsCalculator\OddsCalculator\obj\Debug\OddsCalculator.pdb
 C:\Users\David\documents\visual studio 2010\Projects\OddsCalculator\OddsCalculator\obj\Debug\OddsCalculator.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\OddsCalculator\OddsCalculator\bin\OddsCalculator.dll
+C:\Users\David\Documents\GitHub\OddsCalculator\OddsCalculator\bin\OddsCalculator.pdb
+C:\Users\David\Documents\GitHub\OddsCalculator\OddsCalculator\obj\Debug\OddsCalculator.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\OddsCalculator\OddsCalculator\obj\Debug\OddsCalculator.dll
+C:\Users\David\Documents\GitHub\OddsCalculator\OddsCalculator\obj\Debug\OddsCalculator.pdb

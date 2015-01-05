@@ -16,8 +16,15 @@ namespace OddsCalculator
 
         protected void CalculateOdds_Click(object sender, EventArgs e)
         {
-            double percentValue = double.Parse(PercentValue.Text);
-            DisplayPrice.Text = "Back the horse if the price is greater than " + CalculatePrice(percentValue);
+            if (Page.IsValid)
+            {
+                double percentValue = double.Parse(PercentValue.Text);
+                DisplayPrice.Text = "Back the horse if the price is greater than " + CalculatePrice(percentValue);
+            }
+            else
+            {
+                DisplayPrice.Text = "Please enter a decimal value between 0 and 100";
+            }
         }
 
         private string CalculatePrice(double percentValue)
